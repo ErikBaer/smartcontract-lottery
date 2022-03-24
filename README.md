@@ -10,5 +10,5 @@ PRIVATE_KEY
 Then run the command ```brownie run scripts/deploy_lottery.py``` to deploy the smart-contract on your selected network. Enter the contract-address in Etherscan, connect your wallet and enter the lottery.
 You can also run the unit or integration tests implemented with pytest to see the lottery in action.
 
-This demo is based on the chainlink-mix repo as presented in these tutorials:
+This demo is based on the chainlink-mix repo as presented in these tutorials from Chainlink:
 https://github.com/smartcontractkit/full-blockchain-solidity-course-py
