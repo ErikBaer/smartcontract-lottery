@@ -11,4 +11,4 @@ Then run the command ```brownie run scripts/deploy_lottery.py``` to deploy the s
 You can also run the unit or integration tests implemented with pytest to see the lottery in action.
 
 This demo is based on the chainlink-mix repo as presented in these tutorials:
-https://www.youtube.com/playlist?list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J
+https://github.com/smartcontractkit/full-blockchain-solidity-course-py
