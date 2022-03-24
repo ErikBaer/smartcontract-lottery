@@ -3,8 +3,8 @@ This project is a demo of a smart-contract written in Solidity in combination wi
 
 To deploy the smart-contract and run the lottery, just install brownie and enter the following information into the file sample.env, then rename it to .env :
 
-WEB3_INFURA_PROJECT_ID
-ETHERSCAN_TOKEN
+WEB3_INFURA_PROJECT_ID,
+ETHERSCAN_TOKEN,
 PRIVATE_KEY
 
 Then run the command ```brownie run scripts/deploy_lottery.py``` to deploy the smart-contract on your selected network. Enter the contract-address in Etherscan, connect your wallet and enter the lottery.
